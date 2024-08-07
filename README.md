@@ -5,9 +5,9 @@
   
   <p><strong>ADD Billboards</strong> - Versatile Digital Display Solution. An enhanced version of DeckDeckGo</p>
   
-  <p>Create and display slides with our <a href="https://yourwebsite.com">online editor</a> or developer kit 🔥. Perfect for educators, administrators, families, shops, and office environments.</p>
+  <p>Create and display slides with our <a href="https://addp2p.com">online editor</a> or developer kit 🔥. Perfect for educators, administrators, families, shops, and office environments.</p>
   
-  <p>Interact with your decks through a <a href="https://yourapp.com">remote control</a> 📱. Use it to manage digital displays for announcements, menus, office hours, and more.</p>
+  <p>Interact with your decks through a <a href="#">remote control</a> 📱. Use it to manage digital displays for announcements, menus, office hours, and more.</p>
   
   <br/>
   
