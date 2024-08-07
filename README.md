@@ -1,16 +1,21 @@
 <div align="center">
-  <a href="https://deckdeckgo.com"><img src="studio/src/assets/img/deckdeckgo-logo.svg" alt="DeckDeckGo logo" height="160"></a>
+  <a href="https://yourwebsite.com"><img src="https://addp2p.com/wp-content/uploads/2024/08/ADD-Billboards.png" alt="Your Project Logo" height="160"></a>
   
   <br/>
   
-  <p><strong>DeckDeckGo</strong> - The open source web editor for presentations</p>
+  <p><strong>ADD Billboards</strong> - Versatile Digital Display Solution. An enhanced version of DeckDeckGo</p>
   
-  <p>Create slides with our <a href="https://deckdeckgo.com">online editor</a> or developer kit 🔥.</p>
+  <p>Create and display slides with our <a href="https://yourwebsite.com">online editor</a> or developer kit 🔥. Perfect for educators, administrators, families, shops, and office environments.</p>
   
-  <p>Interact with your decks through a <a href="https://deckdeckgo.app">remote control</a> 📱.</p>
+  <p>Interact with your decks through a <a href="https://yourapp.com">remote control</a> 📱. Use it to manage digital displays for announcements, menus, office hours, and more.</p>
   
   <br/>
   
+  <p>This project is based on DeckDeckGo, an open-source slide deck editor. Significant changes have been made to customize the functionality and appearance for diverse use cases.</p>
+  
+  <p>DeckDeckGo was created by the DeckDeckGo team. For more information, visit the <a href="https://deckdeckgo.com">DeckDeckGo website</a>.</p>
+</div>
+
   ![Website](https://img.shields.io/website?label=Editor&url=https%3A%2F%2Fdeckdeckgo.com)
   ![Website](https://img.shields.io/website?label=Remotre%20control&url=https%3A%2F%2Fdeckdeckgo.app)
   [![GitHub release](https://img.shields.io/github/release/deckgo/deckdeckgo/all?logo=GitHub)](https://github.com/deckgo/deckdeckgo/releases/latest)
